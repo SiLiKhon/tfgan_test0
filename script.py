@@ -1,3 +1,7 @@
+### based on an example from:
+### https://www.tensorflow.org/api_docs/python/tf/contrib/gan/estimator/GANEstimator
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
